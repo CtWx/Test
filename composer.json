@@ -1,0 +1,15 @@
+{
+    "name": "chentao/ceshicomposers",
+    "description": "ppComposer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Tao Chen",
+            "email": "2407246986@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
