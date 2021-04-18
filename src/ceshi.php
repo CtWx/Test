@@ -1,7 +1,7 @@
 <?php
 //num,org
 
-echo '测试Composer';
+echo '测试Composer2';
 exit;
 $action = $_GET['action'];
 if ($action == 'num') {
